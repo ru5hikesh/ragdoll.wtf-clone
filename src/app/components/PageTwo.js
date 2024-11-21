@@ -49,7 +49,7 @@ export default function PageTwo() {
                     </p>
                     <hr className="border-green-700 my-2 mr-0 sm:mr-8" />
                     <p>
-                        The project "RAGDOLL" seeks to distribute entertaining memes featuring Ragdoll cats with the ultimate objective of leading it with the participation of all involved.
+                        The project &quot;RAGDOLL&quot; seeks to distribute entertaining memes featuring Ragdoll cats with the ultimate objective of leading it with the participation of all involved.
                     </p>
                 </div>
 
